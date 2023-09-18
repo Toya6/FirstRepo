@@ -1,5 +1,5 @@
 # FirstRepo
 
-## Editng the file
+## Editing the file
 
 Its a markdoown file in this repository.
